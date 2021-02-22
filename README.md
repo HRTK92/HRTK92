@@ -1,4 +1,4 @@
-### Hi there 👋
+### My profile 👋
 
 [![](https://raw.githubusercontent.com/HRTK92/HRTK92/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 

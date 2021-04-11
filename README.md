@@ -11,8 +11,8 @@
 
 ![](https://komarev.com/ghpvc/?username=HRTK92&color=blue)
 
-### 作業中
-![](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=mc-functionpack)
+### 
+![](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=fnbot)
 <!--
 **HRTK92/HRTK92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

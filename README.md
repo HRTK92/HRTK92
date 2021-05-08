@@ -1,4 +1,3 @@
-### My profile 
 
 <h1 align="center">Hi 👋, I'm HRTK92</h1>
 
@@ -23,4 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&locale=en&layout=compact" alt="hrtk92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&locale=en" alt="hrtk92" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrtk92&theme=default" alt="hrtk92" /></p>
 

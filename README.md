@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HRTK92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 

@@ -6,8 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/はらたく" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="はらたく" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hrtk92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="hrtk92" height="30" width="40" /></a>
+<a href="https://discord.gg/はらたく#3270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="はらたく#3270" height="30" width="40" /></a>
 </p>
 
 <details><summary>Languages and Tools:</h3></summary><div>

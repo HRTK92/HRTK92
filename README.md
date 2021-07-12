@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrtk92&theme=dark" alt="hrtk92" /></p>
 </div></details>
+
+<p>Made with <a href="https://github.com/rahuldkjain/github-profile-readme-generator">github-profile-readme-generator</a></p>

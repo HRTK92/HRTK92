@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HRTK92</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtk92&label=Profile%20views&color=0e75b6&style=flat" alt="hrtk92" /> <img src="https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord"> <img src="https://img.shields.io/badge/Spotify-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F-green?style=flat-square&logo=spotify">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtk92&label=Profile%20views&color=0e75b6&style=flat" alt="hrtk92" /> <img src="https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord"> 
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrtk92" alt="hrtk92" /></a> </p>

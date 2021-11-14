@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm HRTK92</h1>
+## Hi there👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrtk92&label=Profile%20views&color=0e75b6&style=flat" alt="hrtk92" /> <img src="https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord"> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrtk92" alt="hrtk92" /></a> </p>
 
-<summary>My Stats</summary><div>
+## My Stats
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtk92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en" alt="hrtk92" /></p>

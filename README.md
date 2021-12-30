@@ -8,7 +8,8 @@
 ## My Stats
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-<img src="https://wakatime.com/share/@a5982a45-0a0b-4188-88f9-ac9be4d26133/3b4d3e87-7d5e-49be-beda-c1811702aa0c.svg">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtk92">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en" alt="hrtk92"></p>

@@ -9,6 +9,9 @@
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtk92">
 

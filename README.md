@@ -10,7 +10,10 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       43 mins         ███████████▒░░░░░░░░░░░░░   44.78 % 
+HTML         31 mins         ████████▒░░░░░░░░░░░░░░░░   32.76 % 
+Markdown     13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+TypeScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 <!--END_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtk92">

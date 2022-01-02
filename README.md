@@ -6,7 +6,7 @@
 
 ## My Stats
 
-[![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg")](https://github.com/yoshi389111/github-profile-3d-contrib)
+[![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 <!--START_SECTION:waka-->
 ```text

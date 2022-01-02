@@ -6,7 +6,7 @@
 
 ## My Stats
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+[![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg")](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 <!--START_SECTION:waka-->
 ```text
@@ -17,9 +17,8 @@ Markdown     13 mins         ██▒░░░░░░░░░░░░░░
 TypeScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 <!--END_SECTION:waka-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrtk92&show_icons=true&theme=dark&locale=en&layout=compact" alt="hrtk92">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en" alt="hrtk92"></p>
+[![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en)](https://github.com/HRTK92)
 
 ### Languages
 

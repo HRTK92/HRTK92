@@ -7,6 +7,8 @@
 
 ## My Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HRTK92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 <!--START_SECTION:waka-->

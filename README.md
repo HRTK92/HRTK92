@@ -13,11 +13,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 3 mins     ████████████▓░░░░░░░░░░░░   51.11 % 
-Python       37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
-Git Config   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Python       37 mins         ███████████▒░░░░░░░░░░░░░   45.94 % 
+TypeScript   35 mins         ███████████░░░░░░░░░░░░░░   43.75 % 
+JavaScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 <!--END_SECTION:waka-->
 

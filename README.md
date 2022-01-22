@@ -13,7 +13,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   44 mins         ████████████████████████▓   99.19 % 
+Python          51 mins         ████████████████████████▒   97.11 % 
+github-issues   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
 

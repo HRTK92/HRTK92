@@ -13,8 +13,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python          51 mins         ████████████████████████▒   97.11 % 
-github-issues   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python          36 mins         █████████████░░░░░░░░░░░░   52.10 % 
+JavaScript      16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+HTML            15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
+github-issues   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 

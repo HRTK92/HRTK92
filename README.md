@@ -33,4 +33,4 @@ Text         5 mins          █░░░░░░░░░░░░░░░░
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92)](https://github.com/HRTK92)

@@ -29,10 +29,8 @@ Text         5 mins          █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en)](https://github.com/HRTK92)
+[![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/HRTK92)
 
 ### Languages
 
-- Python
-- JavaScript
-- TypeScript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92)]()

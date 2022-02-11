@@ -8,6 +8,12 @@
 
 ## The site I made
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer)](https://github.com/HRTK92/LINE-Log-Viewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro)](https://github.com/HRTK92/Youtube-De-Intro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=badminton-tool)](https://github.com/HRTK92/badminton-tool)
+
+
+
 [links](https://hrtk92.vercel.app/links)
 
 ## My Stats

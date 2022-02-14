@@ -8,8 +8,8 @@
 
 ## The site I made
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer&theme=tokyonight)](https://github.com/HRTK92/LINE-Log-Viewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro&theme=tokyonight)](https://github.com/HRTK92/Youtube-De-Intro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HRTK92/LINE-Log-Viewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HRTK92/Youtube-De-Intro)
 
 [links](https://hrtk92.vercel.app/links)
 

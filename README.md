@@ -8,8 +8,8 @@
 
 ## The site I made
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer)](https://github.com/HRTK92/LINE-Log-Viewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro)](https://github.com/HRTK92/Youtube-De-Intro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer&theme=tokyonight)](https://github.com/HRTK92/LINE-Log-Viewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro&theme=tokyonight)](https://github.com/HRTK92/Youtube-De-Intro)
 
 [links](https://hrtk92.vercel.app/links)
 
@@ -19,18 +19,10 @@
 
 [![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-<!--START_SECTION:waka-->
-```text
-HTML         50 mins         ███████████▓░░░░░░░░░░░░░   46.18 % 
-JavaScript   22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Markdown     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-TypeScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-<!--END_SECTION:waka-->
-
 [![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/HRTK92)
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92)](https://github.com/HRTK92)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92&theme=tokyonight)](https://github.com/HRTK92)
+
+[![wakatime](https://github-readme-stats-final.vercel.app/api/wakatime?username=HRTK92&langs_count=8&theme=tokyonight)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)

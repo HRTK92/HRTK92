@@ -9,7 +9,7 @@
 ## What i am doing
 
 - BOT(`LINE`, `Discord`)
-- WEB(`Django`, `Next.js`)
+- WEB(`Django`, `Next.js`, etc)
 - Minecraft WebSocket
 
 ## The site I made

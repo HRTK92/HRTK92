@@ -6,6 +6,12 @@
 [![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord)](https://discord.com/users/618332297275375636)
 [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 
+## What i am doing
+
+- BOT(`LINE`, `Discord`)
+- WEB(`Django`, `Next.js`)
+- Minecraft WebSocket
+
 ## The site I made
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HRTK92/LINE-Log-Viewer)

@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/HRTK92?style=social)](https://github.com/HRTK92)
 [![GitHub User's stars](https://img.shields.io/github/stars/HRTK92?style=social)](https://github.com/HRTK92)
 [![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord)](https://discord.com/users/618332297275375636)
+[![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 
 ## What i am doing
@@ -33,7 +34,7 @@
 
 [![wakatime](https://github-readme-stats-final.vercel.app/api/wakatime?username=HRTK92&langs_count=8&theme=tokyonight)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 
-## Recent posts
+## Recent posts [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 
 <!-- feed start -->
 - Apr 04 - [LineBotをスマホとReplitで作ってみる](https://zenn.dev/hrtk92/articles/line-bot-on-replit)

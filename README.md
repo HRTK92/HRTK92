@@ -38,12 +38,3 @@
 <!-- feed start -->
 - Apr 04 - [LineBotをスマホとReplitで作ってみる](https://zenn.dev/hrtk92/articles/line-bot-on-replit)
 <!-- feed end -->
-
-<details>
-<summary>Spotifyで聞いてる曲</summary>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pcy4z23eoxl17ojb12kl76m9w&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=pcy4z23eoxl17ojb12kl76m9w&redirect=true)
-
-ボカロ好き
-
-</details>

@@ -1,0 +1,20 @@
+name: feed
+
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+    steps:
+    - uses: actions/checkout@v2
+    - uses: sarisia/actions-readme-feed@v1
+      with:
+        url: 'https://zenn.dev/hrtk92/feed'
+        file: 'README.md'
+        locale: 'ja-JP'
+    - uses: sarisia/actions-commit@master

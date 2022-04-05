@@ -33,6 +33,11 @@
 
 [![wakatime](https://github-readme-stats-final.vercel.app/api/wakatime?username=HRTK92&langs_count=8&theme=tokyonight)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 
+## Recent posts
+
+<!-- feed start -->
+<!-- feed end -->
+
 <details>
 <summary>Spotifyで聞いてる曲</summary>
 
@@ -41,7 +46,3 @@
 ボカロ好き
 
 </details>
-
-<!-- feed start -->
-- Apr 04 - [LineBotをスマホとReplitで作ってみる](https://zenn.dev/hrtk92/articles/line-bot-on-replit)
-<!-- feed end -->

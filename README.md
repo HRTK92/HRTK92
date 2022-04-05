@@ -41,3 +41,7 @@
 ボカロ好き
 
 </details>
+
+<!-- feed start -->
+- Apr 04 - [LineBotをスマホとReplitで作ってみる](https://zenn.dev/hrtk92/articles/line-bot-on-replit)
+<!-- feed end -->

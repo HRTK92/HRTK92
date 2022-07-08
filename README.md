@@ -3,9 +3,9 @@
 [![Views](https://komarev.com/ghpvc/?username=hrtk92&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/HRTK92)
 [![GitHub followers](https://img.shields.io/github/followers/HRTK92?style=social)](https://github.com/HRTK92)
 [![GitHub User's stars](https://img.shields.io/github/stars/HRTK92?style=social)](https://github.com/HRTK92)
-[![Findy-code](https://img.shields.io/badge/findy%20code-62.0-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVHcEwIXsOlpaUKXsMHXsOlpqUJX8N2jq8JXsOlpaUIW8SlpaWlpaWjpKWho6YHXsMQYMIJX8MGXcMHXsMGXsMjZsClpaVegLakpKUQYcKkpaYGXsOlpaULX8MEXcOmpaWKl6t9W4cMAAAAHnRSTlMAp8kjyppzDV1xaa3Og1yvTLt459va8uhHRDnu6oDyfE2mAAAAlUlEQVQYlT2P2RKDIBRDo7K5oNXWte2N//+VBSzmgZmEzAkAUa5QqnDIauSv5vKFyNPsu5nXU0f/FTHXjSdrwN5NoCaBSVSADlVKulAZxT1Exlxp8RIVoFcBG8sQiEwZsrGLo+Z+kaeGk7fN3n7YAyJDDlou4QwbKnVsSR7pZwG7at2RYSOpmk9GlQt1pvXe9xZHC/wAkRcKx3RPzLsAAAAASUVORK5CYII=)](https://findy-code.io/)
+[![Findy-code](https://img.shields.io/badge/findy%20code-62.0-blue?style=flat-square&color=orange&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVHcEwIXsOlpaUKXsMHXsOlpqUJX8N2jq8JXsOlpaUIW8SlpaWlpaWjpKWho6YHXsMQYMIJX8MGXcMHXsMGXsMjZsClpaVegLakpKUQYcKkpaYGXsOlpaULX8MEXcOmpaWKl6t9W4cMAAAAHnRSTlMAp8kjyppzDV1xaa3Og1yvTLt459va8uhHRDnu6oDyfE2mAAAAlUlEQVQYlT2P2RKDIBRDo7K5oNXWte2N//+VBSzmgZmEzAkAUa5QqnDIauSv5vKFyNPsu5nXU0f/FTHXjSdrwN5NoCaBSVSADlVKulAZxT1Exlxp8RIVoFcBG8sQiEwZsrGLo+Z+kaeGk7fN3n7YAyJDDlou4QwbKnVsSR7pZwG7at2RYSOpmk9GlQt1pvXe9xZHC/wAkRcKx3RPzLsAAAAASUVORK5CYII=)](https://findy-code.io/)
 
-[![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord)](https://discord.com/users/618332297275375636)
+[![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 

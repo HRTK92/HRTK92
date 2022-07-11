@@ -1,4 +1,4 @@
-name: feed
+name: zenn
 
 on:
   push:
@@ -17,4 +17,5 @@ jobs:
         url: 'https://zenn.dev/hrtk92/feed'
         file: 'README.md'
         locale: 'ja-JP'
+        format:- ${monthshort} ${02day} - [${title}](${url}+'utm_source=github')
     - uses: sarisia/actions-commit@master

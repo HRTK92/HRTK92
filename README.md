@@ -7,6 +7,7 @@
 
 [![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
+[![Replit](https://img.shields.io/badge/replit-HRTK92-black?style=flat-square&logo=replit)](https://replit.com/@hrtk92)
 [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 
 ## What i am doing

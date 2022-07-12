@@ -14,7 +14,7 @@
 
 - BOT(`LINE`, `Discord`)
 - WEB(`Django`, `Next.js`, etc)
-- Minecraft WebSocket
+- APP(`flutter`)
 
 ## The site I made
 

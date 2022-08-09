@@ -35,7 +35,7 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92&theme=tokyonight)](https://github.com/HRTK92)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRTK92&theme=tokyonight&layout=compact)](https://github.com/HRTK92)
 
 [![wakatime](https://github-readme-stats-final.vercel.app/api/wakatime?username=HRTK92&langs_count=8&theme=tokyonight)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 

@@ -13,9 +13,16 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: sarisia/actions-readme-feed@v1
+      name: readme feed
       with:
         url: 'https://zenn.dev/hrtk92/feed'
         file: 'README.md'
         locale: 'ja-JP'
         format: '- ${monthshort} ${02day} - [${title}](${url}?utm_source=github)'
-    - uses: sarisia/actions-commit@master
+    - name: 'push commit'
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "Update Zenn Feed"
+        git push

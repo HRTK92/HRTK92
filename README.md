@@ -19,13 +19,6 @@
 - WEB(`Django`, `Next.js`, etc)
 - APP(`flutter`)
 
-## The site I made
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=LINE-Log-Viewer&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HRTK92/LINE-Log-Viewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HRTK92&repo=Youtube-De-Intro&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/HRTK92/Youtube-De-Intro)
-
-[links](https://hrtk92.github.io/MySite/github/links)
-
 ## My Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HRTK92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

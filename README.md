@@ -3,7 +3,6 @@
 [![Views](https://komarev.com/ghpvc/?username=hrtk92&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/HRTK92)
 [![GitHub followers](https://img.shields.io/github/followers/HRTK92?style=social)](https://github.com/HRTK92)
 [![GitHub User's stars](https://img.shields.io/github/stars/HRTK92?style=social)](https://github.com/HRTK92)
-[![Findy-code](https://img.shields.io/badge/findy%20code-62.0-blue?style=flat-square&color=orange&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEVHcEwIXsOlpaUKXsMHXsOlpqUJX8N2jq8JXsOlpaUIW8SlpaWlpaWjpKWho6YHXsMQYMIJX8MGXcMHXsMGXsMjZsClpaVegLakpKUQYcKkpaYGXsOlpaULX8MEXcOmpaWKl6t9W4cMAAAAHnRSTlMAp8kjyppzDV1xaa3Og1yvTLt459va8uhHRDnu6oDyfE2mAAAAlUlEQVQYlT2P2RKDIBRDo7K5oNXWte2N//+VBSzmgZmEzAkAUa5QqnDIauSv5vKFyNPsu5nXU0f/FTHXjSdrwN5NoCaBSVSADlVKulAZxT1Exlxp8RIVoFcBG8sQiEwZsrGLo+Z+kaeGk7fN3n7YAyJDDlou4QwbKnVsSR7pZwG7at2RYSOpmk9GlQt1pvXe9xZHC/wAkRcKx3RPzLsAAAAASUVORK5CYII=)](https://findy-code.io/)
 
 [![discord](https://img.shields.io/badge/discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)
 [![Replit](https://img.shields.io/badge/replit-HRTK92-black?style=flat-square&logo=replit)](https://replit.com/@HRTK92)
@@ -26,6 +25,9 @@
 [![profile-night-rainbow](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 [![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/HRTK92)
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ### Languages
 

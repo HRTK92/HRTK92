@@ -27,8 +27,7 @@
 [![HRTK92's status](https://github-readme-stats.vercel.app/api?username=hrtk92&show_icons=true&theme=tokyonight&locale=en&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/HRTK92)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=2.85&i=2.68&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/18/2022, 12:09:50 PM
+<a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=2.85&i=2.68&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 <!--END_SECTION:lapras-card-->
 
 ### Languages

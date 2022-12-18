@@ -14,3 +14,4 @@ jobs:
         with:
           SHARE_ID: 'hrtk92'
           LANG: 'ja'
+          UPDATE_TIME: "false"

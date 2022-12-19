@@ -28,7 +28,13 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 <!--START_SECTION:waka-->
-[![wakatime](https://github-readme-stats-final.vercel.app/api/wakatime?username=HRTK92&langs_count=8&theme=tokyonight)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
+
+```text
+JSON         3 hrs 59 mins   ███████████████▓░░░░░░░░░   63.29 %
+Markdown     1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Other        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Recent [Posts](https://github.com/HRTK92/zenn.dev) [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)

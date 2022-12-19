@@ -3,10 +3,7 @@
 
 ## My Stats
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" style="border-radius: 20px" alt="profile-night-rainbow" width="300" />
-<!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=2.85&i=2.68&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="300" ></a>
-<!--END_SECTION:lapras-card-->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" style="border-radius: 20px" alt="profile-night-rainbow" width="300" /> <!--START_SECTION:lapras-card--><a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=2.85&i=2.68&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="300" ></a><!--END_SECTION:lapras-card-->
 
 ## Languages and Tools
 

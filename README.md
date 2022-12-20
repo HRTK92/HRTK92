@@ -29,7 +29,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
-## Metrics
+## Metrics [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 <!--START_SECTION:waka-->
 
 ```text

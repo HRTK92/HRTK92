@@ -13,5 +13,5 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: 'hrtk92'
-          LANG: 'ja'
-          UPDATE_TIME: "false"
+          LANG: 'en'
+          UPDATE_TIME: 'false'

@@ -29,6 +29,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
+## Metrics
 <!--START_SECTION:waka-->
 
 ```text
@@ -59,7 +60,7 @@ Other            12 hrs 25 mins  █░░░░░░░░░░░░░░�
 
 </details>
 
-# Social
+## Social
 
 [![Twitter](https://img.shields.io/badge/Twitter-hrtk92-blue?style=flat-square&logo=twitter)](https://twitter.com/hrtk92)
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)

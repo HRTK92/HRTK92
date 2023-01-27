@@ -49,7 +49,7 @@ Other            13 hrs 23 mins  █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Recent [Posts](https://github.com/HRTK92/zenn.dev) [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
+## Recent [Posts](https://github.com/HRTK92/zenn.dev) [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92) [![Zenn Likes](https://zenn.badge.nikaera.com/s/hrtk92/likes?style=flat-square)](https://zenn.dev/hrtk92) 
 
 <!-- feed start -->
 - 12月 10日 - [Next.jsとTailWindCSS、NextAuth.js、Prismaを使用した掲示板](https://zenn.dev/hrtk92/articles/github-next-boards?utm_source=github)

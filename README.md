@@ -36,8 +36,8 @@
 ## Metrics [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 <!--START_SECTION:waka-->
 
-```text
-From: 21 February 2021 - To: 01 June 2023
+```txt
+From: 21 February 2021 - To: 02 June 2023
 
 TypeScript       178 hrs 52 mins ██████████████▒░░░░░░░░░░   57.82 %
 HTML             22 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %

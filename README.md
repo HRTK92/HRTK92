@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2021 - To: 04 September 2023
+From: 21 February 2021 - To: 05 September 2023
 
 TypeScript       189 hrs 50 mins ██████████████▓░░░░░░░░░░   58.40 %
 HTML             23 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %

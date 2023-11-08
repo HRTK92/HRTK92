@@ -1,5 +1,5 @@
 
-# ![header](./gh-header.svg)
+<!--# ![header](./gh-header.svg)-->
 
 ## My Stats
 
@@ -66,7 +66,6 @@ Markdown         15 hrs 3 mins   █░░░░░░░░░░░░░░�
 
 ## Social
 
-[![Twitter](https://img.shields.io/badge/Twitter-hrtk92-blue?style=flat-square&logo=twitter)](https://twitter.com/hrtk92)
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 [![GitHub](https://img.shields.io/badge/GitHub-HRTK92-blue?style=flat-square&logo=github)](https://github.com/HRTK92)
 [![discord](https://img.shields.io/badge/Discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)

@@ -4,7 +4,7 @@
 ## My Stats
 
 <img src="./profile-3d-contrib/profile-night-view.svg" style="border-radius: 20px" alt="profile-night-rainbow" width="300" /> <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img alt="hrtk92's scores on LAPRAS are as follows: Engineering: 3.49 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.8 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.49&b=2.85&i=2.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img alt="hrtk92's scores on LAPRAS are as follows: Engineering: 3.5 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.8 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.5&b=2.85&i=2.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 ## Languages and Tools

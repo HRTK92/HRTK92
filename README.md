@@ -37,13 +37,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2021 - To: 01 January 2024
+From: 21 February 2021 - To: 02 January 2024
 
-TypeScript       200 hrs 2 mins  ██████████████▒░░░░░░░░░░   57.06 %
-Python           26 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-JavaScript       24 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-HTML             23 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Markdown         15 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript       200 hrs 2 mins  ██████████████▒░░░░░░░░░░   56.79 %
+Python           28 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+JavaScript       24 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+HTML             23 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown         15 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->

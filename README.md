@@ -27,7 +27,7 @@
 [![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)](https://deno.land/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 
-## Metrics [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
+## Metrics
 <!--START_SECTION:waka-->
 
 ```rust
@@ -44,7 +44,9 @@ Markdown         15 hrs 37 mins  >------------------------   04.44 %
 
 <!--END_SECTION:waka-->
 
-## Recent [Posts](https://github.com/HRTK92/zenn.dev) [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92) [![Zenn Likes](https://zenn.badge.nikaera.com/s/hrtk92/likes?style=flat-square)](https://zenn.dev/hrtk92) 
+## Recent Posts
+
+[![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92) [![Zenn Likes](https://zenn.badge.nikaera.com/s/hrtk92/likes?style=flat-square)](https://zenn.dev/hrtk92) 
 
 <!-- feed start -->
 - 8月 5日 - [ConoHaをDiscordから起動したい](https://zenn.dev/hrtk92/articles/conoha-bot-for-ark?utm_source=github)
@@ -53,15 +55,3 @@ Markdown         15 hrs 37 mins  >------------------------   04.44 %
 - 10月 7日 - [Minecraft統合版をlocaltonetで公開してみた](https://zenn.dev/hrtk92/articles/mc-server-localtonet?utm_source=github)
 - 7月 8日 - [スマホで「VS Code Server」を建てる方法](https://zenn.dev/hrtk92/articles/termux-vscode-server?utm_source=github)
 <!-- feed end -->
-<details>
-<summary>More...</summary>
-
-[![Zenn](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=hrtk92)](https://zenn.dev/hrtk92)
-
-</details>
-
-## Social
-
-[![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
-[![GitHub](https://img.shields.io/badge/GitHub-HRTK92-blue?style=flat-square&logo=github)](https://github.com/HRTK92)
-[![Discord](https://img.shields.io/badge/Discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)

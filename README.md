@@ -1,22 +1,18 @@
+# Hi, I'm HRTK92! 👋
 
-<!--# ![header](./gh-header.svg)-->
+## About Me
 
-## My Stats
+- 🎓 I'm a student at a high school in Japan.
+- 🌱 I'm currently learning TypeScript, Flutter, and Next.js.
+- 🌏 I want to contribute to open source projects.
+- 📫 How to reach me: [Discord](https://discord.com/users/618332297275375636)
+- 📝 I'm writing articles on [Zenn](https://zenn.dev/hrtk92).
 
-<img src="./profile-3d-contrib/profile-night-view.svg" style="border-radius: 20px" alt="profile-night-rainbow" width="300" /> <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/hrtk92" target="_blank" rel="noopener noreferrer"><img alt="hrtk92's scores on LAPRAS are as follows: Engineering: 3.55 out of 5.0, Business: 2.85 out of 5.0, Influence: 2.8 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=2.85&i=2.8&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
-<!--END_SECTION:lapras-card-->
+## Stats
+
+![HRTK92's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRTK92&count_private=true&show_icons=true&theme=dracula)
 
 ## Languages and Tools
-
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://giyhub.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
-[![DenoDepoly](https://img.shields.io/badge/DenoDepoly-000000?style=flat-square&logo=deno&logoColor=white)](https://deno.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
@@ -30,8 +26,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)](https://deno.land/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Metrics [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 <!--START_SECTION:waka-->
@@ -68,4 +62,4 @@ Markdown         15 hrs 37 mins  █░░░░░░░░░░░░░░�
 
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 [![GitHub](https://img.shields.io/badge/GitHub-HRTK92-blue?style=flat-square&logo=github)](https://github.com/HRTK92)
-[![discord](https://img.shields.io/badge/Discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)
+[![Discord](https://img.shields.io/badge/Discord-%E3%81%AF%E3%82%89%E3%81%9F%E3%81%8F%233270-blue?style=flat-square&logo=discord&color=blueviolet)](https://discord.com/users/618332297275375636)

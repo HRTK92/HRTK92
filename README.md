@@ -30,14 +30,16 @@
 ## Metrics [![wakatime](https://wakatime.com/badge/user/a5982a45-0a0b-4188-88f9-ac9be4d26133.svg)](https://wakatime.com/@a5982a45-0a0b-4188-88f9-ac9be4d26133)
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 21 February 2021 - To: 05 January 2024
 
-TypeScript       200 hrs 2 mins  ██████████████▒░░░░░░░░░░   56.79 %
-Python           28 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-JavaScript       24 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-HTML             23 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Markdown         15 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Total Time: 337 hrs 31 mins
+
+TypeScript       200 hrs 2 mins  >>>>>>>>>>>>>>-----------   56.79 %
+Python           28 hrs 7 mins   >>-----------------------   07.99 %
+JavaScript       24 hrs 1 min    >>-----------------------   06.82 %
+HTML             23 hrs 12 mins  >>-----------------------   06.59 %
+Markdown         15 hrs 37 mins  >------------------------   04.44 %
 ```
 
 <!--END_SECTION:waka-->

@@ -49,9 +49,9 @@ Markdown         15 hrs 37 mins  >------------------------   04.44 %
 [![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92) [![Zenn Likes](https://zenn.badge.nikaera.com/s/hrtk92/likes?style=flat-square)](https://zenn.dev/hrtk92) 
 
 <!-- feed start -->
-- <img src="./img/zenn.png" width="18" /> [ConoHaをDiscordから起動したい](https://zenn.dev/hrtk92/articles/conoha-bot-for-ark?utm_source=github)
-- <img src="./img/zenn.png" width="18" /> [Next.jsとTailWindCSS、NextAuth.js、Prismaを使用した掲示板](https://zenn.dev/hrtk92/articles/github-next-boards?utm_source=github)
-- <img src="./img/zenn.png" width="18" /> [Replitのモバイルアプリがリリースされた！](https://zenn.dev/hrtk92/articles/replit-mobile-app?utm_source=github)
-- <img src="./img/zenn.png" width="18" /> [Minecraft統合版をlocaltonetで公開してみた](https://zenn.dev/hrtk92/articles/mc-server-localtonet?utm_source=github)
-- <img src="./img/zenn.png" width="18" /> [スマホで「VS Code Server」を建てる方法](https://zenn.dev/hrtk92/articles/termux-vscode-server?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [ConoHaをDiscordから起動したい](https://zenn.dev/hrtk92/articles/conoha-bot-for-ark?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [Next.jsとTailWindCSS、NextAuth.js、Prismaを使用した掲示板](https://zenn.dev/hrtk92/articles/github-next-boards?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [Replitのモバイルアプリがリリースされた！](https://zenn.dev/hrtk92/articles/replit-mobile-app?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [Minecraft統合版をlocaltonetで公開してみた](https://zenn.dev/hrtk92/articles/mc-server-localtonet?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [スマホで「VS Code Server」を建てる方法](https://zenn.dev/hrtk92/articles/termux-vscode-server?utm_source=github)
 <!-- feed end -->

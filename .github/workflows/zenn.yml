@@ -1,4 +1,4 @@
-name: zenn
+name: Update Zenn Feed
 
 on:
   schedule:

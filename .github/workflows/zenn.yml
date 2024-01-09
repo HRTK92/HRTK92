@@ -17,7 +17,7 @@ jobs:
         url: 'https://zenn.dev/hrtk92/feed'
         file: 'README.md'
         locale: 'ja-JP'
-        format: '- ${monthshort} ${02day} - [${title}](${url}?utm_source=github)'
+        format: '- ![](./img/zenn.png) [${title}](${url}?utm_source=github)'
     - name: 'push commit'
       run: |
         if ! git diff --exit-code --quiet

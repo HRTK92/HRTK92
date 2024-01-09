@@ -1,8 +1,0 @@
-- urls:
-    - https://zenn.dev/hrtk92/feed
-  template: |-
-      **Zenn**
-      {{range . -}}
-        * ![](./icon/zenn.png) [{{ .Title }}]({{ .Link }})
-      {{ end }}
-  limit: 5

@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 February 2021 - To: 20 March 2024
+From: 21 February 2021 - To: 21 March 2024
 
-Total Time: 337 hrs 31 mins
+Total Time: 337 hrs 33 mins
 
-TypeScript       200 hrs 2 mins  >>>>>>>>>>>>>>-----------   56.79 %
+TypeScript       200 hrs 2 mins  >>>>>>>>>>>>>>-----------   56.78 %
 Python           28 hrs 7 mins   >>-----------------------   07.99 %
 JavaScript       24 hrs 1 min    >>-----------------------   06.82 %
 HTML             23 hrs 12 mins  >>-----------------------   06.59 %

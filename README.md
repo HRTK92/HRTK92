@@ -52,7 +52,7 @@ I'm also interested in contributing to open source!
 
 ## 📝 Latest Zenn Articles
 
-[![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92) [![Zenn Likes](https://zenn.badge.nikaera.com/s/hrtk92/likes?style=flat-square)](https://zenn.dev/hrtk92)
+[![Zenn](https://img.shields.io/badge/Zenn-hrtk92-blue?style=flat-square&logo=zenn)](https://zenn.dev/hrtk92)
 
 ![Latest Zenn Articles](./assets/zenn-stats.svg)
 

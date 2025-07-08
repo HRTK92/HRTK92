@@ -57,3 +57,11 @@ I'm also interested in contributing to open source!
 ![Latest Zenn Articles](./assets/zenn-stats.svg)
 
 #
+
+<!-- feed start -->
+- <img src="./img/zenn.png" width="16" /> [ConoHaをDiscordから起動したい](https://zenn.dev/hrtk92/articles/conoha-bot-for-ark?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [Next.jsとTailWindCSS、NextAuth.js、Prismaを使用した掲示板](https://zenn.dev/hrtk92/articles/github-next-boards?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [Minecraft統合版をlocaltonetで公開してみた](https://zenn.dev/hrtk92/articles/mc-server-localtonet?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [スマホで「VS Code Server」を建てる方法](https://zenn.dev/hrtk92/articles/termux-vscode-server?utm_source=github)
+- <img src="./img/zenn.png" width="16" /> [LineBotをスマホとReplitで作ってみる](https://zenn.dev/hrtk92/articles/line-bot-on-replit?utm_source=github)
+<!-- feed end -->

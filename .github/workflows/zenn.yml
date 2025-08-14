@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update Zenn Feed
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
     - uses: sarisia/actions-readme-feed@v1
       name: readme feed
       with:

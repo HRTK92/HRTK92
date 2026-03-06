@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm HRTK92 👋
 
-<!--
-**HRTK92/HRTK92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student in Japan, building things with TypeScript, Flutter, and Next.js.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** TypeScript / JavaScript / Python / Dart
+
+**Tools:** Firebase / Cloudflare
+
+## Links
+
+- 📝 Articles: [zenn.dev/hrtk92](https://zenn.dev/hrtk92)
+- 💬 Discord: [hrtk92](https://discord.com/users/618332297275375636)

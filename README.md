@@ -6,7 +6,7 @@ High school student in Japan, building things with TypeScript, Flutter, and Next
 
 **Languages:** TypeScript / JavaScript / Python / Dart
 
-**Tools:** Firebase / Cloudflare
+**Services:** Firebase / Cloudflare
 
 ## Links
 

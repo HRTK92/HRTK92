@@ -4,7 +4,7 @@ University student in Japan. Love self-hosting and contributing to OSS.
 
 ## Skills
 
-**Languages:** TypeScript / JavaScript / Python / Dart
+**Languages:** TypeScript / JavaScript / Python / Dart / Go
 
 **Services:** Cloudflare / Firebase
 

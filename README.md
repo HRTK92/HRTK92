@@ -11,4 +11,4 @@ University student in Japan. Love self-hosting and contributing to OSS.
 ## Links
 - 📝 Articles: [zenn.dev/hrtk92](https://zenn.dev/hrtk92)
 - 💬 Discord: [hrtk92](https://discord.com/users/618332297275375636)
-- ✉️ Email: `hrtk92@proton.me`
+- ✉️ Email: `me@hrtk92.dev`

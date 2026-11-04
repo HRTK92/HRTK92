@@ -11,7 +11,7 @@ University student in Japan. Love self-hosting and contributing to OSS.
 ## 🚀 Projects & Works
 
 - **[kyudo.works.hrtk92.dev](https://kyudo.works.hrtk92.dev)** - All-in-One Kyudo Club Operations Platform
-- **[py-mcws](https://github.com/HRTK92/py-mcws)** - Python library for Minecraft WebSocket communication (12k+ downloads on PyPI)
+- **[py-mcws](https://github.com/HRTK92/py-mcws)** - Python library for Minecraft WebSocket communication (15k+ downloads on PyPI)
 
 ## Links
 - 🌐 Portfolio: [me.hrtk92.dev](https://me.hrtk92.dev)
